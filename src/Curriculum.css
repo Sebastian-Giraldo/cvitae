@@ -1,0 +1,43 @@
+body {
+  min-height: 100vh;
+  background-attachment: fixed;
+  background-size: cover;
+  background-image: url("./img/img8.jpg");
+}
+
+.principal {
+  width: 70%;
+  height: auto;
+  background-color: transparent;
+  position: relative;
+  margin-top: 39.8%;
+}
+
+.caja1 {
+  width: 100%;
+  height: 400px;
+  background-image: url("./img/img5.jpg");
+  background-position: center center;
+  background-size: cover;
+  opacity: 0.75;
+  border-radius: 15%;
+}
+
+.cajacuerpo {
+  width: 100%;
+  height: 1600px;
+  background-color: white;
+  opacity: 0.25;
+  position: absolute;
+}
+
+.divimagen1 {
+  background-image: url("./img/img2.jpg");
+  width: auto;
+  height: 40%;
+}
+
+.card-img-top {
+  width: 400px;
+  height: 300px;
+}
